@@ -1,0 +1,112 @@
+table {
+    width: 70%;
+    margin: 0 auto;
+    background-color: turquoise;
+    margin-top: 3%;
+    border-radius: 10px;
+    border-collapse: separate;
+  }
+  th,
+  td {
+    border-radius: 10px;
+    height: 10px;
+  }
+  .shape1 {
+    height: 70px;
+    width: 8%;
+    border: 5px solid rgb(150, 212, 84);
+    border-radius: 7px;
+    float: left;
+    margin: 0 auto;
+    margin-left: 32%;
+    margin-right: 40px;
+  }
+  .shape2 {
+    height: 70px;
+    width: 8%;
+    border: 5px solid rgb(150, 212, 84);
+    border-radius: 10px;
+    float: left;
+    margin: 0 auto;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .shape3 {
+    height: 70px;
+    width: 8%;
+    border: 5px solid rgb(150, 212, 84);
+    border-radius: 25px;
+    float: left;
+    margin: 0 auto;
+    margin-left: 40px;
+    margin-right: 25%;
+  }
+  .shape4 {
+    height: 70px;
+    width: 8%;
+    border: 5px solid rgb(150, 212, 84);
+    border-radius: 12px;
+    float: left;
+    margin: 0 auto;
+    margin-top: 2%;
+    margin-left: 32%;
+    margin-right: 40px;
+  }
+  .shape5 {
+    height: 70px;
+    width: 8%;
+    border: 5px solid rgb(150, 212, 84);
+    border-radius: 5px;
+    float: left;
+    margin: 0 auto;
+    margin-top: 2%;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .shape6 {
+    height: 70px;
+    width: 8%;
+    border: 5px solid rgb(150, 212, 84);
+    border-radius: 20px;
+    float: left;
+    margin: 0 auto;
+    margin-top: 2%;
+    margin-left: 40px;
+    margin-right: 25%;
+  }
+  .shape7 {
+    height: 70px;
+    width: 8%;
+    border: 5px solid rgb(150, 212, 84);
+    border-radius: 50%;
+    float: left;
+    margin: 0 auto;
+    margin-top: 2%;
+    margin-left: 32%;
+    margin-right: 40px;
+  }
+  .shape8 {
+    height: 70px;
+    width: 8%;
+    border: 5px solid rgb(150, 212, 84);
+    border-radius: 7px;
+    float: left;
+    margin: 0 auto;
+    margin-top: 2%;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .shape9 {
+    height: 70px;
+    width: 8%;
+    border: 5px solid rgb(150, 212, 84);
+    border-top-left-radius: 7px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 32px;
+    border-bottom-right-radius: 7px;
+    float: left;
+    margin: 0 auto;
+    margin-top: 2%;
+    margin-left: 40px;
+    margin-right: 25%;
+  }

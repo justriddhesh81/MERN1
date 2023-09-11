@@ -1,0 +1,56 @@
+.container {
+    margin-left: 25px;
+    width: 15%;
+    overflow: hidden;
+  }
+  header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .container a.navv {
+    display: inline-block;
+    height: 30px;
+    width: 200px;
+    padding: 10px 20px;
+    font-size: 26px;
+    background-color: rgb(174, 227, 245);
+    color: blue;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  .container a.navv:hover {
+    background-color: rgb(221, 172, 39);
+    color: white;
+  }
+
+  .container2 {
+    margin-right: 72%;
+      list-style-type: none;
+      padding: 10px;
+      background-color: rgb(213,213,213);
+    }
+   
+    .container2 li {
+      display: inline;
+      margin-right: 20px;  
+    }
+  
+    .container2 a.nav2 {
+        
+        height: 30px;
+        
+        padding: 10px;
+        font-size: 26px;
+        background-color: rgb(213, 213, 213);
+        color: blue;
+        text-decoration: none;
+        transition: background-color 0.5s;
+        
+    }
+  
+    .container2 a.nav2:hover {
+      background-color: #6a6a6a;
+      color:rgb(255, 255, 255);
+      
+    }
